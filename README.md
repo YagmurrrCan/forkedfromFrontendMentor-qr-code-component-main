@@ -1,4 +1,4 @@
-https://yagmurrrcan.github.io/qr-code-component-main/
+https://yagmurrrcan.github.io/forkedfromFrontendMentor-qr-code-component-main/
 
 # Frontend Mentor - QR code component
 
